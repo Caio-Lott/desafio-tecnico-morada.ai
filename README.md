@@ -1,6 +1,6 @@
 # Extrator de Informações de Leads com Gemini
 
-Este projeto utiliza a API Gemini do Google para extrair informações relevantes de conversas entre um assistente virutal e leads armazenadas em um arquivo CSV.
+Este projeto foi desenvolvido como parte do processo seletivo de estágio de Ciência de Dados da empresa Morada.ai e ele utiliza a API Gemini do Google para extrair informações relevantes de logs de conversas entre um assistente virtual e um lead armazenados em um arquivo CSV.
 
 ## Estrutura do Diretório
 
