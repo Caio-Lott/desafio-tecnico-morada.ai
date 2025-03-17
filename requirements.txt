@@ -1,4 +1,3 @@
 pandas
 dotenv
 google-generativeai
-streamlit
